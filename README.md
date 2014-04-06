@@ -1,4 +1,7 @@
 paulgrahamEssays
 ================
 
-get a ePub of all Paul Graham's essays
+get an ePub of all Paul Graham's essays
+
+Some articles aren't being written still, although this is an improvement over the original at
+https://gist.github.com/olasitarska/4104455
